@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varad Mashalkar</h1>
-<h3 align="center">A Computer Vision and Deep Learning Enthusiast from India</h3>
+<h3 align="center">A Computer Vision and Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadmash&label=Profile%20views&color=0e75b6&style=flat" alt="varadmash" /> </p>
 
 - 🌱 I’m currently learning **React, Computer Vision and Deep Learning**
 
-- 💬 Ask me about **Android, Machine Learning**
+- 💬 Ask me about **Android, Machine Learning, Computer Vision**
 
 - 📫 How to reach me **varadmash2201@gmail.com**
 

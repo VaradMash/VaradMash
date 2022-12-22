@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **varadmash2201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K55oAKCnkGTMifjowsb2mytVb1o3YVHz/view?usp=sharing](https://drive.google.com/file/d/1K55oAKCnkGTMifjowsb2mytVb1o3YVHz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I0SAj4nIvEJow5F7KMQwgZz86j7tFrl0/view?usp=share_link](https://drive.google.com/file/d/1I0SAj4nIvEJow5F7KMQwgZz86j7tFrl0/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
